@@ -1,5 +1,5 @@
 <img width="1455" height="752" alt="Space_Mission" src="https://github.com/iam-anamika/Space-Mission-Dashboard/blob/main/Space%20Mission%20Dashborad.png"
-##🚀 Space Mission Dashboard | Power BI
+/>🚀 Space Mission Dashboard | Power BI
 
 ## 📌 Project Overview
 
