@@ -60,9 +60,7 @@ The dataset contains historical records of space missions with the following inf
 
 
 
-- 💼 LinkedIn: *(Add your LinkedIn profile link)*
-- 💻 GitHub: https://github.com/programmer-anamika
+- 💼 LinkedIn: *https://www.linkedin.com/in/anamika-pal-175949269/*
+- 💻 GitHub: https://github.com/iam-anamika
 
----
 
-⭐ If you found this project helpful, consider giving it a star!
